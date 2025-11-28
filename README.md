@@ -42,25 +42,6 @@ Mongoose for schema modeling and database operations
 
 SCREENSHOT LINK:https://drive.google.com/drive/folders/1FiIM9sR1qdGzjvB83Vqf-HEd39KsuRKn?usp=sharing
 
-PROJECT STRUCTURE
-myblog/
-│
-├── models/
-├── routes/
-├── views/
-│   ├── articles/
-│   ├── partials/
-│   └── *.ejs
-│
-├── public/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── server.js
-├── package.json
-└── README.md
-
 
 
 ---
